@@ -1,0 +1,9 @@
+{
+  "recommendations": [
+    "ms-python.python",
+    "ms-toolsai.jupyter",
+    "GitHub.vscode-pull-request-github",
+    "eamodio.gitlens",
+    "yzhang.markdown-all-in-one"
+  ]
+}
